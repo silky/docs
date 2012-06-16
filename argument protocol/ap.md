@@ -16,11 +16,15 @@ The Protocol
 
 There are 5 steps. In summary, they are:
 
- #. Consideration of argument importance,
- #. Statement of conflicting positions,
- #. Statement of conditions for loss,
- #. Argument,
- #. Review.
+  1. Consideration of argument importance,
+
+  1. Statement of conflicting positions,
+
+  1. Statement of conditions for loss,
+
+  1. Argument,
+
+  1. Review.
 
 
 Consideration of argument importance
@@ -28,7 +32,7 @@ Consideration of argument importance
 
 *Goals*: Establish potential rationality of argument.
 
-The first step, before proposing to use the protocol, is for both of them to silently
+The first step, before proposing to use the protocol, is for everyone involved to
 evaluate how important the particular argument would be, to each other. Essentially
 the idea is to decide whether or not it is worth investing time in the remainder of
 the protocol, and in particular it is appropriate to decide if the outcome of this
