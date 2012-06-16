@@ -14,7 +14,7 @@ the protocol.
 The Protocol
 --
 
-There are 5 steps. In summary, they are:
+There are 5 steps:
 
   1. Consideration of argument importance,
 
@@ -27,7 +27,7 @@ There are 5 steps. In summary, they are:
   1. Review.
 
 
-Consideration of argument importance
+Step 1 - Consideration of argument importance
 --
 
 *Goal*: Establish potential rationality of argument.
@@ -39,22 +39,23 @@ the protocol, and in particular it is appropriate to decide if the outcome of th
 application of the protocol is likely to be useful and good.
 
 
-Statement of conflicting positions
+Step 2 - Statement of conflicting positions
 --
 
 *Goals*: Determine objective argument positions, disassociation of argument from person.
 
-This step is perhaps obvious, but is often not done explicitly. Here we would like
-a clear and *objective* definition of the respective positions of both parties. In
-particular, all subjective claims should be resolved.
+While this may seem obvious, it is appropriate to do this explicitly. This step may
+occur in tandem with step 3, but in general all parties should attempt to establish
+clear and *objective* statements of their positions. In particular, all subjective
+claims should be resolved.
 
-In the resolution of subjective terms, it should also be that the argument becomes as
-de-personalised as possible. The hope is that by the end of this, two completely
+In the resolution of subjective claims, it should also be that the argument becomes
+as de-personalised as possible. The hope is that by the end of this, two completely
 objective positions are found, and that neither party feels emotionally attached to
 them.
 
 
-State conditions for loss
+Step 3 - State conditions for loss
 --
 
 *Goal*: Ensure useful argument outcome, promote direct consideration of each others
@@ -63,13 +64,12 @@ views.
 Each party should state the criteria under which they will accept defeat. If a given
 party can't come up with a condition then they do not get to participate. It may be
 that the condition is essentially the negation of their conflicting position; but
-explicit consideration of this step may also allow either party to realise that their
-position is perhaps still subjective or irrational. At the very least, it forces each
-party to consider the contradictory view to their own, and perhaps gain some insight
-into the others position.
+explicit consideration of this step may help either party to formalise their position
+more, and at the very least, it forces each party to consider the contradictory view
+to their own, and perhaps gain some insight into the others position.
 
 
-Argument
+Step 4 - Argument
 --
 
 *Goal*: Logically explore the topic and resolve conflicting positions.
@@ -78,7 +78,7 @@ Finally the typical argument should take place, and of course typical approaches
 should be followed.
 
 
-Review
+Step 5 - Review
 --
 
 *Goal*: Ensure the process was useful.
