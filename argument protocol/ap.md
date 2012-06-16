@@ -30,7 +30,7 @@ There are 5 steps. In summary, they are:
 Consideration of argument importance
 --
 
-*Goals*: Establish potential rationality of argument.
+*Goal*: Establish potential rationality of argument.
 
 The first step, before proposing to use the protocol, is for everyone involved to
 evaluate how important the particular argument would be, to each other. Essentially
@@ -42,7 +42,7 @@ application of the protocol is likely to be useful and good.
 Statement of conflicting positions
 --
 
-*Goals*: Objective argument positions, disassociation of argument from person.
+*Goals*: Determine objective argument positions, disassociation of argument from person.
 
 This step is perhaps obvious, but is often not done explicitly. Here we would like
 a clear and *objective* definition of the respective positions of both parties. In
@@ -57,7 +57,7 @@ them.
 State conditions for loss
 --
 
-*Goals*: Ensure useful argument outcome, promote direct consideration of each others
+*Goal*: Ensure useful argument outcome, promote direct consideration of each others
 views.
 
 Each party should state the criteria under which they will accept defeat. If a given
@@ -72,7 +72,7 @@ into the others position.
 Argument
 --
 
-*Goals*: Logically explore the topic and resolve conflicting positions.
+*Goal*: Logically explore the topic and resolve conflicting positions.
 
 Finally the typical argument should take place, and of course typical approaches
 should be followed.
@@ -81,7 +81,7 @@ should be followed.
 Review
 --
 
-*Goals*: Ensure the process was useful.
+*Goal*: Ensure the process was useful.
 
 Upon successful arguing on either party, the loss conditions will be reviewed, and
 the learnings on some party can be noted. At this stage, it is guaranteed that one
