@@ -1,4 +1,4 @@
-% Argument Protocol
+% Argument Protocol^[Version 1.1]
 % Noon Silk
 % 
 
@@ -10,6 +10,10 @@ Below I describe the Argument Protocol. It is a strategy that can be used whenev
 you would like to have a clear and useful argument on a topic of some importance with
 some friends of colleagues. To be used properly, all parties will need to be aware of
 the protocol.
+
+The latest version of the protocol can be found here:
+[Argument Protocol](https://github.com/silky/docs/tree/master/argument%20protocol).
+
 
 The Protocol
 --
